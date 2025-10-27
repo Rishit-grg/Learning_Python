@@ -1,0 +1,1 @@
+print("Hello world\ni love u world\\")
