@@ -1,0 +1,1 @@
+print("Twinkle twinkle little star\noh i wonder what u are\nup above the world so high\nlike a diamond in the sky")
