@@ -1,2 +1,2 @@
 a = input('what is your favourite food ?')
-print("WOW! I love",a,"too")
+print("WOW! I love "+ a +" too")
