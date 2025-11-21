@@ -6,4 +6,4 @@ print(name[0],name[-1],len(name))
 
 verb = ("is running fast")
 
-cc
+print (name,verb)
